@@ -1,0 +1,8 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="8" cy="8" r="8" fill="#000000"/>
+  <rect x="2" y="6" width="2" height="1" fill="#ffffff"/>
+  <rect x="12" y="6" width="2" height="1" fill="#ffffff"/>
+  <rect x="2" y="9" width="2" height="1" fill="#ffffff"/>
+  <rect x="12" y="9" width="2" height="1" fill="#ffffff"/>
+  <text x="8" y="11" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="4" font-weight="bold">RAM</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#000000"/>
+  
+  <!-- Circuit pattern -->
+  <path d="M8 12h4v2h-4v-2z" fill="#ffffff"/>
+  <path d="M20 12h4v2h-4v-2z" fill="#ffffff"/>
+  <path d="M8 18h4v2h-4v-2z" fill="#ffffff"/>
+  <path d="M20 18h4v2h-4v-2z" fill="#ffffff"/>
+  
+  <!-- RAM text -->
+  <text x="16" y="20" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">RAM</text>
+  
+  <!-- AI indicators -->
+  <circle cx="6" cy="8" r="1" fill="#ffffff"/>
+  <circle cx="26" cy="8" r="1" fill="#ffffff"/>
+  <circle cx="6" cy="24" r="1" fill="#ffffff"/>
+  <circle cx="26" cy="24" r="1" fill="#ffffff"/>
+</svg>
